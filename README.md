@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minottoplus)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minotto165)](https://github.com/anuraghazra/github-readme-stats2)
 
 
 [<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube">](https://www.youtube.com/@minottoplus)
