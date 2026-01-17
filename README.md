@@ -2,7 +2,8 @@
 - 👀 I’m interested in Golang
 - 🌱 I’m currently learning Python
 
-
+## My skills
+[![My Skills](https://skillicons.dev/icons?i=ae,dotnet,figma,cs,visualstudio&theme=dark)](https://skillicons.dev)
 
 
 
