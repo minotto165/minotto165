@@ -1,44 +1,20 @@
-# Hey, I'm minotto 👋
+# minotto165
 
-I make small things on the internet from Tokyo, Japan.  
-CLI tools, web experiments, motion design, and other weird projects.
-
----
-
-## What I do
-
-- 🛠️ **CLI Tools** — Small utilities that solve specific problems
-- 🌐 **Web** — Experiments and projects  
-- 🎬 **Motion Design** — After Effects and animation work
-- 🖥️ **Self-hosting** — Because managing servers is half the fun
-
----
+I make small things on the internet from Tokyo, Japan.
 
 ## Skills
 
-[![Go](https://skillicons.dev/icons?i=go&theme=dark)](#)
-[![Python](https://skillicons.dev/icons?i=python&theme=dark)](#)
-[![C#](https://skillicons.dev/icons?i=cs&theme=dark)](#)
-[![.NET](https://skillicons.dev/icons?i=dotnet&theme=dark)](#)
-[![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](#)
-[![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](#)
-[![Figma](https://skillicons.dev/icons?i=figma&theme=dark)](#)
-[![After Effects](https://skillicons.dev/icons?i=ae&theme=dark)](#)
+[![My Skills](https://skillicons.dev/icons?i=ae,dotnet,figma,cs,visualstudio&theme=dark)](https://skillicons.dev)
 
----
+## Projects
 
-## Stats
+- progoat
+- EatenDLP
+- FluentVRC
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minotto165&show_icons=true&theme=dark&bg_color=0d1117&title_color=874800&text_color=c9d1d9&icon_color=874800&border_color=30363d&hide=["commits"])
+## Links
 
----
-
-## Connect
-
-[![Website](https://img.shields.io/badge/minotto.dev-874800?style=flat-square&logo=cloudflare&logoColor=white)](https://minotto.dev)
-[![X](https://img.shields.io/badge/X-000?style=flat-square&logo=x&logoColor=white)](https://www.x.com/minotto165)
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCaLg7105fOMPKjNo-u39fEg)
-
----
-
-*made with ☕ and a terminal*
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCaLg7105fOMPKjNo-u39fEg)
+[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x)](https://www.x.com/minotto165)
+[![Website](https://img.shields.io/badge/Website-minotto.dev-874800?style=for-the-badge&logo=cloudflare&logoColor=white)](https://minotto.dev)
+[![技術者倫理 遵守済み](https://img.shields.io/badge/%E6%8A%80%E8%A1%93%E8%80%85%E5%80%AB%E7%90%86-%E9%81%B5%E5%AE%88%E6%B8%88%E3%81%BF-0a0a0a?style=for-the-badge&labelColor=ffffff)](https://技術者倫理.com)
